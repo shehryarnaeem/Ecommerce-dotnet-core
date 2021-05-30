@@ -1,0 +1,292 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.controllers/Ecommerce.controllers.csproj": {}
+  },
+  "projects": {
+    "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.controllers/Ecommerce.controllers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.controllers/Ecommerce.controllers.csproj",
+        "projectName": "Ecommerce.controllers",
+        "projectPath": "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.controllers/Ecommerce.controllers.csproj",
+        "packagesPath": "/home/shahryar/.nuget/packages/",
+        "outputPath": "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.controllers/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/shahryar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/Ecommerce.models.csproj": {
+                "projectPath": "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/Ecommerce.models.csproj"
+              },
+              "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.repositories/Ecommerce.repositories.csproj": {
+                "projectPath": "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.repositories/Ecommerce.repositories.csproj"
+              },
+              "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.services/Ecommerce.services.csproj": {
+                "projectPath": "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.services/Ecommerce.services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.11.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.409/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/Ecommerce.models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/Ecommerce.models.csproj",
+        "projectName": "Ecommerce.models",
+        "projectPath": "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/Ecommerce.models.csproj",
+        "packagesPath": "/home/shahryar/.nuget/packages/",
+        "outputPath": "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/shahryar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.409/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.repositories/Ecommerce.repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.repositories/Ecommerce.repositories.csproj",
+        "projectName": "Ecommerce.repositories",
+        "projectPath": "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.repositories/Ecommerce.repositories.csproj",
+        "packagesPath": "/home/shahryar/.nuget/packages/",
+        "outputPath": "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.repositories/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/shahryar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/Ecommerce.models.csproj": {
+                "projectPath": "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/Ecommerce.models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.409/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.services/Ecommerce.services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.services/Ecommerce.services.csproj",
+        "projectName": "Ecommerce.services",
+        "projectPath": "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.services/Ecommerce.services.csproj",
+        "packagesPath": "/home/shahryar/.nuget/packages/",
+        "outputPath": "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/shahryar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/Ecommerce.models.csproj": {
+                "projectPath": "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/Ecommerce.models.csproj"
+              },
+              "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.repositories/Ecommerce.repositories.csproj": {
+                "projectPath": "/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.repositories/Ecommerce.repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.409/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

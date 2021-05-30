@@ -1,0 +1,12 @@
+/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/bin/Debug/netcoreapp3.1/Ecommerce.models.deps.json
+/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/bin/Debug/netcoreapp3.1/Ecommerce.models.runtimeconfig.json
+/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/bin/Debug/netcoreapp3.1/Ecommerce.models.runtimeconfig.dev.json
+/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/bin/Debug/netcoreapp3.1/Ecommerce.models.dll
+/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/bin/Debug/netcoreapp3.1/Ecommerce.models.pdb
+/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/obj/Debug/netcoreapp3.1/Ecommerce.models.csprojAssemblyReference.cache
+/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/obj/Debug/netcoreapp3.1/Ecommerce.models.AssemblyInfoInputs.cache
+/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/obj/Debug/netcoreapp3.1/Ecommerce.models.AssemblyInfo.cs
+/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/obj/Debug/netcoreapp3.1/Ecommerce.models.csproj.CoreCompileInputs.cache
+/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/obj/Debug/netcoreapp3.1/Ecommerce.models.dll
+/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/obj/Debug/netcoreapp3.1/Ecommerce.models.pdb
+/home/shahryar/Practice/dotnetcore/Ecommerce/Ecommerce.models/obj/Debug/netcoreapp3.1/Ecommerce.models.genruntimeconfig.cache
